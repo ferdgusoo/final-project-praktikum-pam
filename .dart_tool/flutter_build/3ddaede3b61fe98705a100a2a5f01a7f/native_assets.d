@@ -1,0 +1,1 @@
+ /Users/aureliaaiko/infra/.dart_tool/flutter_build/3ddaede3b61fe98705a100a2a5f01a7f/native_assets.yaml: 

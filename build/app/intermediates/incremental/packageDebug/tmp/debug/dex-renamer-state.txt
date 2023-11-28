@@ -1,0 +1,4 @@
+#Tue Nov 28 14:23:43 WIB 2023
+base.0=D\:\\code\\FINPRO\\FINPRO\\infra\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
